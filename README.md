@@ -1,4 +1,5 @@
-# A Blank PhoneGap App
+# Kids Calculator 
+# PhoneGap App Using Cordova
 
 ## Usage
 
@@ -11,4 +12,6 @@
 In your browser, open the file:
 
     /www/index.html
+
+![Alt text](/Users/gabrielnyante/Desktop/full-stack-development/kids_calculator/mainImage.png?raw=true "Kids Calculator")
 
